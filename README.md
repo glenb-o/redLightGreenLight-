@@ -1,0 +1,2 @@
+# redLightGreenLight-
+Don't get caught in a moving violation!  To play, one person is chosen to be the traffic cop.  All the players stand on the starting line and the traffic cop has his back to the rest of the players. When he says "green light," players try to run to the finish line.  When the traffic cop says "red light," he turns around and players have to stop in their tracks.  If the traffic cop catches a player moving, he sends them back to the starting line.  First person to cross the finish line wins and becomes the new traffic cop.
